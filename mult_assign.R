@@ -46,7 +46,3 @@ library(dplyr)
 
   invisible()
 }
-
-
-
-#args <- as.list(subsitute(list(...)))[-1L] if ... are wanted in funtion
